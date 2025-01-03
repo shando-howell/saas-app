@@ -1,1 +1,1 @@
-Re-do section at 1hr 48mins in
+1. Deprecated middleware logic is in the deprecated_middleware.ts file.
